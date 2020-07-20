@@ -5,20 +5,12 @@
     <link>https://ssrb19.github.io/tag/capri/</link>
       <atom:link href="https://ssrb19.github.io/tag/capri/index.xml" rel="self" type="application/rss+xml" />
     <description>CAPRI</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Shourya S. Roy Burman, 2020</copyright><lastBuildDate>Tue, 19 Nov 2019 13:54:44 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Shourya S. Roy Burman, 2020</copyright><lastBuildDate>Mon, 26 Sep 2016 13:55:29 -0400</lastBuildDate>
     <image>
       <url>https://ssrb19.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>CAPRI</title>
       <link>https://ssrb19.github.io/tag/capri/</link>
     </image>
-    
-    <item>
-      <title>Novel sampling strategies and a coarse-grained score function for docking homomers, flexible heteromers, and oligosaccharides using Rosetta in CAPRI Rounds 37–45</title>
-      <link>https://ssrb19.github.io/publication/2019_proteins/</link>
-      <pubDate>Tue, 19 Nov 2019 13:54:44 -0400</pubDate>
-      <guid>https://ssrb19.github.io/publication/2019_proteins/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Modeling oblong proteins and water-mediated interfaces with RosettaDock in CAPRI rounds 28–35</title>
