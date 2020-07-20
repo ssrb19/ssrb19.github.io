@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Férnandez-Recio J | Shourya S. Roy Burman</title>
+    <link>https://ssrb19.github.io/author/fernandez-recio-j/</link>
+      <atom:link href="https://ssrb19.github.io/author/fernandez-recio-j/index.xml" rel="self" type="application/rss+xml" />
+    <description>Férnandez-Recio J</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Shourya S. Roy Burman, 2020</copyright><lastBuildDate>Thu, 28 Apr 2016 13:55:52 -0400</lastBuildDate>
+    <image>
+      <url>https://ssrb19.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Férnandez-Recio J</title>
+      <link>https://ssrb19.github.io/author/fernandez-recio-j/</link>
+    </image>
+    
+    <item>
+      <title>Prediction of homo- and hetero-protein complexes by ab-initio and template-based docking: a CASP-CAPRI experiment</title>
+      <link>https://ssrb19.github.io/publication/2016_proteins/</link>
+      <pubDate>Thu, 28 Apr 2016 13:55:52 -0400</pubDate>
+      <guid>https://ssrb19.github.io/publication/2016_proteins/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
