@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nowak RP | Shourya S. Roy Burman</title>
+    <link>https://ssrb19.github.io/author/nowak-rp/</link>
+      <atom:link href="https://ssrb19.github.io/author/nowak-rp/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nowak RP</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Shourya S. Roy Burman, 2020</copyright><lastBuildDate>Thu, 25 Jun 2020 13:54:38 -0400</lastBuildDate>
+    <image>
+      <url>https://ssrb19.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Nowak RP</title>
+      <link>https://ssrb19.github.io/author/nowak-rp/</link>
+    </image>
+    
+    <item>
+      <title>Small molecule-induced polymerization triggers degradation of BCL6</title>
+      <link>https://ssrb19.github.io/unpublished/2020_nature/</link>
+      <pubDate>Thu, 25 Jun 2020 13:54:38 -0400</pubDate>
+      <guid>https://ssrb19.github.io/unpublished/2020_nature/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
