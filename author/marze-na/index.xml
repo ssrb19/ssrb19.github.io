@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marze NA* | Shourya S. Roy Burman</title>
+    <link>https://ssrb19.github.io/author/marze-na/</link>
+      <atom:link href="https://ssrb19.github.io/author/marze-na/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marze NA*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Shourya S. Roy Burman, 2020</copyright><lastBuildDate>Mon, 01 Jun 2020 13:42:44 -0400</lastBuildDate>
+    <image>
+      <url>https://ssrb19.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Marze NA*</title>
+      <link>https://ssrb19.github.io/author/marze-na/</link>
+    </image>
+    
+    <item>
+      <title>Macromolecular modeling and design in Rosetta: recent methods and frameworks</title>
+      <link>https://ssrb19.github.io/publication/2020_natmethods/</link>
+      <pubDate>Mon, 01 Jun 2020 13:42:44 -0400</pubDate>
+      <guid>https://ssrb19.github.io/publication/2020_natmethods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient flexible backbone protein–protein docking for challenging targets</title>
+      <link>https://ssrb19.github.io/publication/2018_bioinformatics/</link>
+      <pubDate>Mon, 30 Apr 2018 13:55:20 -0400</pubDate>
+      <guid>https://ssrb19.github.io/publication/2018_bioinformatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling oblong proteins and water-mediated interfaces with RosettaDock in CAPRI rounds 28–35</title>
+      <link>https://ssrb19.github.io/publication/2017_proteins/</link>
+      <pubDate>Mon, 26 Sep 2016 13:55:29 -0400</pubDate>
+      <guid>https://ssrb19.github.io/publication/2017_proteins/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

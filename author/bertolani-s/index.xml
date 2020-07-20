@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bertolani S | Shourya S. Roy Burman</title>
+    <link>https://ssrb19.github.io/author/bertolani-s/</link>
+      <atom:link href="https://ssrb19.github.io/author/bertolani-s/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bertolani S</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Shourya S. Roy Burman, 2020</copyright><lastBuildDate>Thu, 25 Jun 2020 13:54:33 -0400</lastBuildDate>
+    <image>
+      <url>https://ssrb19.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Bertolani S</title>
+      <link>https://ssrb19.github.io/author/bertolani-s/</link>
+    </image>
+    
+    <item>
+      <title>PyRosetta Jupyter Notebooks Teach Biomolecular Structure Prediction and Design</title>
+      <link>https://ssrb19.github.io/publication/2020_biophysicist/</link>
+      <pubDate>Thu, 25 Jun 2020 13:54:33 -0400</pubDate>
+      <guid>https://ssrb19.github.io/publication/2020_biophysicist/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
