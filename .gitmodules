@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/ssrb19/ssrb19.github.io.git
+	branch = master
