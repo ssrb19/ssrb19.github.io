@@ -5,26 +5,34 @@
     <link>https://ssrb19.github.io/</link>
       <atom:link href="https://ssrb19.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Shourya S. Roy Burman</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Shourya S. Roy Burman, 2020</copyright><lastBuildDate>Sat, 01 Aug 2020 13:54:44 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Shourya S. Roy Burman, 2021</copyright><lastBuildDate>Mon, 05 Apr 2021 08:41:49 -0400</lastBuildDate>
     <image>
-      <url>https://ssrb19.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ssrb19.github.io/images/icon_hu6e55a8f35e8916063e15f6d192fa8554_14634_512x512_fill_lanczos_center_2.png</url>
       <title>Shourya S. Roy Burman</title>
       <link>https://ssrb19.github.io/</link>
     </image>
+    
+    <item>
+      <title>Ensuring scientific reproducibility in bio-macromolecular modeling via extensive, automated benchmarks</title>
+      <link>https://ssrb19.github.io/publication/2021_reproducibility/</link>
+      <pubDate>Mon, 05 Apr 2021 08:41:49 -0400</pubDate>
+      <guid>https://ssrb19.github.io/publication/2021_reproducibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Small molecule-induced polymerization triggers degradation of BCL6</title>
+      <link>https://ssrb19.github.io/publication/2020_nature/</link>
+      <pubDate>Sun, 08 Nov 2020 08:50:29 -0400</pubDate>
+      <guid>https://ssrb19.github.io/publication/2020_nature/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Novel sampling strategies and a coarse-grained score function for docking homomers, flexible heteromers, and oligosaccharides using Rosetta in CAPRI Rounds 37–45</title>
       <link>https://ssrb19.github.io/publication/2020_proteins/</link>
       <pubDate>Sat, 01 Aug 2020 13:54:44 -0400</pubDate>
       <guid>https://ssrb19.github.io/publication/2020_proteins/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Small molecule-induced polymerization triggers degradation of BCL6</title>
-      <link>https://ssrb19.github.io/unpublished/2020_nature/</link>
-      <pubDate>Thu, 25 Jun 2020 13:54:38 -0400</pubDate>
-      <guid>https://ssrb19.github.io/unpublished/2020_nature/</guid>
       <description></description>
     </item>
     
