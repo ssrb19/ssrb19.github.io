@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Li D | Shourya S. Roy Burman</title>
+    <link>https://ssrb19.github.io/author/li-d/</link>
+      <atom:link href="https://ssrb19.github.io/author/li-d/index.xml" rel="self" type="application/rss+xml" />
+    <description>Li D</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Shourya S. Roy Burman, 2021</copyright><lastBuildDate>Mon, 29 Nov 2021 21:48:12 -0500</lastBuildDate>
+    <image>
+      <url>https://ssrb19.github.io/images/icon_hu6e55a8f35e8916063e15f6d192fa8554_14634_512x512_fill_lanczos_center_2.png</url>
+      <title>Li D</title>
+      <link>https://ssrb19.github.io/author/li-d/</link>
+    </image>
+    
+    <item>
+      <title>Machine learning modeling of protein-intrinsic features predicts tractability of targeted protein degradation</title>
+      <link>https://ssrb19.github.io/publication/2021_degradability/</link>
+      <pubDate>Mon, 29 Nov 2021 21:48:12 -0500</pubDate>
+      <guid>https://ssrb19.github.io/publication/2021_degradability/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
