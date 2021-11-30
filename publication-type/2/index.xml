@@ -5,12 +5,20 @@
     <link>https://ssrb19.github.io/publication-type/2/</link>
       <atom:link href="https://ssrb19.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Shourya S. Roy Burman, 2021</copyright><lastBuildDate>Wed, 14 Apr 2021 13:54:33 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Shourya S. Roy Burman, 2021</copyright><lastBuildDate>Mon, 29 Nov 2021 21:48:05 -0500</lastBuildDate>
     <image>
       <url>https://ssrb19.github.io/images/icon_hu6e55a8f35e8916063e15f6d192fa8554_14634_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>https://ssrb19.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Ensuring scientific reproducibility in bio-macromolecular modeling via extensive, automated benchmarks</title>
+      <link>https://ssrb19.github.io/publication/2021_natcomm/</link>
+      <pubDate>Mon, 29 Nov 2021 21:48:05 -0500</pubDate>
+      <guid>https://ssrb19.github.io/publication/2021_natcomm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PyRosetta Jupyter Notebooks Teach Biomolecular Structure Prediction and Design</title>
