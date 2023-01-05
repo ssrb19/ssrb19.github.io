@@ -5,7 +5,7 @@
     <link>https://ssrb19.github.io/category/research-article/</link>
       <atom:link href="https://ssrb19.github.io/category/research-article/index.xml" rel="self" type="application/rss+xml" />
     <description>Research Article</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Shourya S. Roy Burman, 2021</copyright><lastBuildDate>Mon, 29 Nov 2021 21:48:12 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Shourya S. Roy Burman, 2023</copyright><lastBuildDate>Wed, 04 Jan 2023 14:43:13 +0400</lastBuildDate>
     <image>
       <url>https://ssrb19.github.io/images/icon_hu6e55a8f35e8916063e15f6d192fa8554_14634_512x512_fill_lanczos_center_2.png</url>
       <title>Research Article</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Structural basis of regulated m7G tRNA modification by METTL1–WDR4</title>
+      <link>https://ssrb19.github.io/publication/2023_nature/</link>
+      <pubDate>Wed, 04 Jan 2023 14:43:13 +0400</pubDate>
+      <guid>https://ssrb19.github.io/publication/2023_nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Machine learning modeling of protein-intrinsic features predicts tractability of targeted protein degradation</title>
-      <link>https://ssrb19.github.io/publication/2021_degradability/</link>
-      <pubDate>Mon, 29 Nov 2021 21:48:12 -0500</pubDate>
-      <guid>https://ssrb19.github.io/publication/2021_degradability/</guid>
+      <link>https://ssrb19.github.io/publication/2022_gpb/</link>
+      <pubDate>Mon, 05 Dec 2022 14:43:39 +0400</pubDate>
+      <guid>https://ssrb19.github.io/publication/2022_gpb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BTBBCL6 dimers as building blocks for reversible drug-induced protein oligomerization</title>
+      <link>https://ssrb19.github.io/publication/2022_cellrepmet/</link>
+      <pubDate>Mon, 25 Apr 2022 14:44:43 +0400</pubDate>
+      <guid>https://ssrb19.github.io/publication/2022_cellrepmet/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,44 @@
     <link>https://ssrb19.github.io/publication-type/2/</link>
       <atom:link href="https://ssrb19.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Shourya S. Roy Burman, 2021</copyright><lastBuildDate>Mon, 29 Nov 2021 21:48:05 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Shourya S. Roy Burman, 2023</copyright><lastBuildDate>Wed, 04 Jan 2023 14:43:13 +0400</lastBuildDate>
     <image>
       <url>https://ssrb19.github.io/images/icon_hu6e55a8f35e8916063e15f6d192fa8554_14634_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>https://ssrb19.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Structural basis of regulated m7G tRNA modification by METTL1–WDR4</title>
+      <link>https://ssrb19.github.io/publication/2023_nature/</link>
+      <pubDate>Wed, 04 Jan 2023 14:43:13 +0400</pubDate>
+      <guid>https://ssrb19.github.io/publication/2023_nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning modeling of protein-intrinsic features predicts tractability of targeted protein degradation</title>
+      <link>https://ssrb19.github.io/publication/2022_gpb/</link>
+      <pubDate>Mon, 05 Dec 2022 14:43:39 +0400</pubDate>
+      <guid>https://ssrb19.github.io/publication/2022_gpb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BTBBCL6 dimers as building blocks for reversible drug-induced protein oligomerization</title>
+      <link>https://ssrb19.github.io/publication/2022_cellrepmet/</link>
+      <pubDate>Mon, 25 Apr 2022 14:44:43 +0400</pubDate>
+      <guid>https://ssrb19.github.io/publication/2022_cellrepmet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serological testing for SARS-CoV-2 antibodies of employees shows low transmission working in a cancer center</title>
+      <link>https://ssrb19.github.io/publication/2022_plosone/</link>
+      <pubDate>Tue, 12 Apr 2022 14:45:32 +0400</pubDate>
+      <guid>https://ssrb19.github.io/publication/2022_plosone/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ensuring scientific reproducibility in bio-macromolecular modeling via extensive, automated benchmarks</title>
