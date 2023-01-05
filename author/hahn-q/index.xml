@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hahn Q | Shourya S. Roy Burman</title>
+    <link>https://ssrb19.github.io/author/hahn-q/</link>
+      <atom:link href="https://ssrb19.github.io/author/hahn-q/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hahn Q</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Shourya S. Roy Burman, 2023</copyright><lastBuildDate>Wed, 04 Jan 2023 14:43:13 +0400</lastBuildDate>
+    <image>
+      <url>https://ssrb19.github.io/images/icon_hu6e55a8f35e8916063e15f6d192fa8554_14634_512x512_fill_lanczos_center_2.png</url>
+      <title>Hahn Q</title>
+      <link>https://ssrb19.github.io/author/hahn-q/</link>
+    </image>
+    
+    <item>
+      <title>Structural basis of regulated m7G tRNA modification by METTL1–WDR4</title>
+      <link>https://ssrb19.github.io/publication/2023_nature/</link>
+      <pubDate>Wed, 04 Jan 2023 14:43:13 +0400</pubDate>
+      <guid>https://ssrb19.github.io/publication/2023_nature/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
